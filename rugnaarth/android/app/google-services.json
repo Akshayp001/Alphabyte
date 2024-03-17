@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097042906755",
+    "project_id": "rugnaarth-cc2df",
+    "storage_bucket": "rugnaarth-cc2df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097042906755:android:84220df65254b9467515b6",
+        "android_client_info": {
+          "package_name": "com.example.rugnaarth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnxdATfMPPpApBRMcS7VWYo7PBINPIAyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
